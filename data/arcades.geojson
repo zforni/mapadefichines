@@ -1,0 +1,649 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 265330854,
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "countrycode": "AR",
+        "postcode": "C1204AAB",
+        "county": "Comuna 5",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "3636",
+        "street": "Avenida Rivadavia",
+        "district": "Almagro",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Acatraz",
+        "description": "Restaurante / Bar. Tiene varios fichines clásicos, flippers, también pool, tejo, bowling, etc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.417748,
+          -34.610863
+        ]
+      },
+      "id": "QzNTg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 313601678,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1414CXR",
+        "county": "Comuna 15",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "75",
+        "street": "Serrano",
+        "district": "Villa Crespo",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Arcade Social Club",
+        "description": "Club privado de Arcades originales, se entra solo con reserva/invitación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.447072,
+          -34.599858
+        ]
+      },
+      "id": "A5Mjc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 6123893478,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1181ADA",
+        "county": "Comuna 14",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "housenumber": "1460",
+        "street": "Gascón",
+        "district": "Palermo",
+        "osm_value": "pub",
+        "name": "Bar El Destello",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "description": "bar de fichines. Tiene un flipper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.422922,
+          -34.593401
+        ]
+      },
+      "id": "Y1NDk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Ficha",
+        "description": "bar de fichines\n\nhttps://www.instagram.com/arcadeficha",
+        "city": "Rosario",
+        "county": "Argentina",
+        "locality": "Rosario",
+        "state": "Santa Fe",
+        "street": "Av. Francia",
+        "housenumber": "811",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.66545,
+          -32.941706
+        ]
+      },
+      "id": "E2MTM"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 11499525148,
+        "country": "Argentina",
+        "city": "Monte Grande",
+        "countrycode": "AR",
+        "postcode": "1842",
+        "county": "Partido de Esteban Echeverría",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "street": "Avenida Dardo Rocha",
+        "osm_value": "pub",
+        "name": "BrotherHood",
+        "state": "Buenos Aires",
+        "description": "Bar temático de juegos, con fichines, flippers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.472175,
+          -34.817025
+        ]
+      },
+      "id": "I5NzI"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 351925990,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1414CYN",
+        "locality": "Palermo Hollywood",
+        "county": "Distrito Audiovisual",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "5265",
+        "street": "Honduras",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Burgertify",
+        "description": "Hamburguesería con fichines recreados y alguno clásico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.432659,
+          -34.587123
+        ]
+      },
+      "id": "Y2OTY"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1267230839,
+        "extent": [
+          -58.4483913,
+          -34.5902106,
+          -58.4475546,
+          -34.5910116
+        ],
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "countrycode": "AR",
+        "postcode": "C1427BPA",
+        "county": "Distrito Audiovisual",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "amenity",
+        "housenumber": "6271",
+        "street": "Avenida Corrientes",
+        "district": "Chacarita",
+        "osm_value": "events_venue",
+        "name": "C Complejo Art Media",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "description": "Fichines solo en eventos, recitales, fiestas. Tienen varios para jugar gratis. \nhttps://www.instagram.com/ccomplejoartmedia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.447937,
+          -34.590607
+        ]
+      },
+      "id": "YxMTE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 5923963086,
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "countrycode": "AR",
+        "postcode": "C1172ABK",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "housenumber": "557",
+        "street": "Gallo",
+        "district": "Balvanera",
+        "osm_value": "bar",
+        "name": "Casa Colombo",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "description": "Bar Rockero. Tiene unos pocos fichines recreados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.412812,
+          -34.602838
+        ]
+      },
+      "id": "U5OTI"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 311606289,
+        "country": "Argentina",
+        "osm_key": "place",
+        "housenumber": "2277",
+        "street": "Añasco",
+        "countrycode": "AR",
+        "district": "La Paternal",
+        "osm_value": "house_number",
+        "postcode": "C1416DJD",
+        "county": "Distrito Audiovisual",
+        "type": "house",
+        "name": "Clarck Flipper y Arcades",
+        "description": "Venta, alquiler, y reparación de máquinas recreativas. Se puede ir a jugar también\nhttps://www.instagram.com/clarckargentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.458051,
+          -34.599367
+        ]
+      },
+      "id": "YxMzg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CLUB DE ARTE TEMPUJA",
+        "description": "Centro cultural. Club de Arte. Tiene varios fichines para jugar",
+        "locality": "Bernal",
+        "state": "Buenos Aires",
+        "county": "Argentina",
+        "district": "Bernal",
+        "city": "Quilmes",
+        "street": "Bernal 56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.288821,
+          -34.70764
+        ]
+      },
+      "id": "E0NzQ"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 366556366,
+        "country": "Argentina",
+        "osm_key": "place",
+        "housenumber": "1420",
+        "street": "Avenida Entre Ríos",
+        "countrycode": "AR",
+        "district": "San Cristóbal",
+        "osm_value": "house_number",
+        "postcode": "1133",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "type": "house",
+        "name": "Cyber Play Uno 420",
+        "description": "Lugar de recreativas, fichines, flippers, videojuegos modernos, lugar de eventos, etc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.391304,
+          -34.625439
+        ]
+      },
+      "id": "UzMzU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 282641682,
+        "country": "Argentina",
+        "city": "Posadas",
+        "countrycode": "AR",
+        "postcode": "3300",
+        "locality": "Villa Sarita",
+        "county": "Departamento Capital",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "869",
+        "street": "Alberdi",
+        "district": "Centro de Integración Territorial Riberas del Paraná",
+        "osm_value": "house_number",
+        "state": "Misiones",
+        "name": "El Templo Tattoo y Bar",
+        "description": "Bar con un fichin recreado para jugar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.893385,
+          -27.357896
+        ]
+      },
+      "id": "YxNDk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 265437751,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1187AAG",
+        "county": "Comuna 2",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "3271",
+        "street": "Avenida Córdoba",
+        "district": "Recoleta",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "FELIZA GAY BAR",
+        "description": "bar y club social LGBTiq+, tiene fichines\nhttps://www.instagram.com/felizarcoiris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.412874,
+          -34.597864
+        ]
+      },
+      "id": "UyNTg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 351925990,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1414CYN",
+        "locality": "Palermo Hollywood",
+        "county": "Distrito Audiovisual",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "5275",
+        "street": "Honduras",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Flynn's Arcade Bar",
+        "description": "Bar ambientado retro arcade, con fichines recreados y juegos de mesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.432721,
+          -34.587077
+        ]
+      },
+      "id": "E0ODU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 321556278,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1424CIS",
+        "county": "Comuna 7",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "843",
+        "street": "Avenida Directorio",
+        "district": "Parque Chacabuco",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Hormiga Negra Caballito",
+        "description": "Cervecería, tiene un fichin para jugar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.439073,
+          -34.628659
+        ]
+      },
+      "id": "IwNzA"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 313601599,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1414AFD",
+        "county": "Comuna 15",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "763",
+        "street": "Murillo",
+        "district": "Villa Crespo",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Innova Cyber Cafe",
+        "description": "Cyber Cafe, juegos modernos, no hay fichines. \nhttps://www.instagram.com/innovacybercafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.444283,
+          -34.60005
+        ]
+      },
+      "id": "IzNzk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jungle Game Entertainment",
+        "description": "Entrada sobre avenida victorica\nEspacio dentro de Nine Shopping. Con varios juegos para niños y tiene algunos fichines",
+        "city": "Moreno",
+        "state": "Buenos Aires",
+        "locality": "Moreno",
+        "district": "Moreno",
+        "county": "Argentina",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.792418,
+          -34.634724
+        ]
+      },
+      "id": "YyMTA"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neverland Abasto Shopping",
+        "description": "El espacio funciona dentro del shopping, está enfocado para niños, dispone de algunos fichines",
+        "country": "Argentina",
+        "district": "Abasto",
+        "street": "Corrientes",
+        "state": "Buenos Aires",
+        "locality": "Ciudad Autonoma de Buenos Aires",
+        "city": "Ciudad Autonoma de Buenos Aires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41089,
+          -34.603796
+        ]
+      },
+      "id": "IzNTA"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oldies Quilmes",
+        "street": "Av. Calchaquí",
+        "housenumber": "4300",
+        "locality": "Ezpeleta",
+        "state": "Buenos Aires",
+        "district": "Ezpeleta",
+        "county": "Argentina",
+        "city": "Quilmes",
+        "description": "Bar retro ambientado con fichines, flippers y otros juegos analógicos y virtuales\n\nhttps://www.instagram.com/oldies_quilmes",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.275844,
+          -34.76306
+        ]
+      },
+      "id": "QwNzg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 313474529,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1416CRD",
+        "county": "Comuna 15",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "528",
+        "street": "Galicia",
+        "district": "Villa Crespo",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Perro negro",
+        "description": "Cervecería con fichines originales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.448978,
+          -34.604091
+        ]
+      },
+      "id": "c5ODU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 252207122,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1070AAP",
+        "county": "Comuna 1",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "631",
+        "street": "Chile",
+        "district": "Monserrat",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Pier 54",
+        "description": "Cervecería con fichines, flipper, pool y otros juegos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.375082,
+          -34.616168
+        ]
+      },
+      "id": "QxNTI"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 307817642,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1416ACS",
+        "locality": "La Carbonilla",
+        "county": "Comuna 15",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "2173",
+        "street": "Álvarez Jonte",
+        "district": "La Paternal",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Pinbar",
+        "description": "Bar de flippers, con varios flippers originales de época"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.473581,
+          -34.605153
+        ]
+      },
+      "id": "Q1ODI"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rothar",
+        "description": "Boulevard Santa Catalina 330,  Llavallol. Bar. Comidas, bebidas varias, tiene varios fichines de época y adaptado\nhttps://www.instagram.com/rotharbar",
+        "county": "Argentina",
+        "state": "Buenos Aires",
+        "street": "Boulevard Santa Catalina ",
+        "housenumber": "330",
+        "locality": "Lavallol",
+        "city": "Lomas de Zamora",
+        "country": "Argentina",
+        "district": "Lavallol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.436419,
+          -34.793816
+        ]
+      },
+      "id": "EwNDI"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 684679650,
+        "country": "Argentina",
+        "city": "Lomas de Zamora",
+        "countrycode": "AR",
+        "postcode": "1870",
+        "locality": "Lomitas",
+        "county": "Partido de Lomas de Zamora",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "94",
+        "street": "Vicente Oliden",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Three Monkeys Brew Bar",
+        "description": "Cervecería con fichines\nhttps://www.instagram.com/threemonkeysbrewbar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.404934,
+          -34.765612
+        ]
+      },
+      "id": "UyMTk"
+    }
+  ]
+}

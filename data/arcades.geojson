@@ -3,6 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.198596,
+          -34.758221
+        ]
+      },
+      "id": "MyMTI"
+    },
+    {
+      "type": "Feature",
       "properties": {
         "osm_id": 265330854,
         "country": "Argentina",
@@ -29,6 +41,35 @@
         ]
       },
       "id": "QzNTg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 297621094,
+        "country": "Argentina",
+        "city": "Esquel",
+        "countrycode": "AR",
+        "postcode": "U9200",
+        "county": "Departamento Futaleufú",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "777",
+        "street": "25 de Mayo",
+        "district": "Don Bosco",
+        "osm_value": "house_number",
+        "state": "Chubut",
+        "name": "Alimichinati Games",
+        "description": "tiene varios juegos de autos muy buenos, un arcade y tipo cyber"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.322374,
+          -42.912931
+        ]
+      },
+      "id": "Y4OTA"
     },
     {
       "type": "Feature",
@@ -467,6 +508,143 @@
     {
       "type": "Feature",
       "properties": {
+        "osm_id": 297620078,
+        "country": "Argentina",
+        "city": "Esquel",
+        "countrycode": "AR",
+        "postcode": "U9200",
+        "county": "Departamento Futaleufú",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "579",
+        "street": "25 de Mayo",
+        "district": "Don Bosco",
+        "osm_value": "house_number",
+        "state": "Chubut",
+        "name": "KPlay",
+        "description": "mas que nada juegos físicos, pero hay un arcade de tiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.320296,
+          -42.914421
+        ]
+      },
+      "id": "AzNDQ"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 345623930,
+        "country": "Argentina",
+        "city": "San Carlos de Bariloche",
+        "countrycode": "AR",
+        "postcode": "8400",
+        "county": "Departamento Bariloche",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "106",
+        "street": "Mitre",
+        "district": "Melipal",
+        "osm_value": "house_number",
+        "state": "Río Negro",
+        "name": "KPlay Bariloche",
+        "description": "Tienen mas que nada juegos para niños pero tambien un walking dead para adultos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.359461,
+          -41.132629
+        ]
+      },
+      "id": "QxMjM"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 7160739038,
+        "country": "Argentina",
+        "city": "Río Gallegos",
+        "countrycode": "AR",
+        "postcode": "9400",
+        "county": "Güer Aike",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "street": "España",
+        "district": "Zona Centro",
+        "osm_value": "fast_food",
+        "name": "Moma",
+        "state": "Santa Cruz",
+        "description": "Juegos físicos, arcades de tiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.215521,
+          -51.620354
+        ]
+      },
+      "id": "k0NjQ"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MuchPlay",
+        "country": "Argentina",
+        "city": "San Miguel",
+        "county": "Argentina",
+        "housenumber": "1061",
+        "street": "AV. PRESIDENTE PERÓN",
+        "state": "buenos aires",
+        "locality": "Muñiz",
+        "description": "juegos físicos, orientado a chicos, algunos juegos de carreras \nhttps://www.instagram.com/much_play/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.706224,
+          -34.546502
+        ]
+      },
+      "id": "AwOTQ"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 652954260,
+        "country": "Argentina",
+        "city": "Berazategui",
+        "countrycode": "AR",
+        "postcode": "B1884CUS",
+        "county": "Partido de Berazategui",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "4422",
+        "street": "Avenida 14 - Gastón F. Rigolleau",
+        "district": "Barrio 12 de Octubre",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Multiverso Bar",
+        "description": "Bar temático con varios fichines reconstruidos\n\nhttps://www.instagram.com/multiverso_bar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.213357,
+          -34.763854
+        ]
+      },
+      "id": "QzMDM"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Neverland Abasto Shopping",
         "description": "El espacio funciona dentro del shopping, está enfocado para niños, dispone de algunos fichines",
         "country": "Argentina",
@@ -592,6 +770,26 @@
         ]
       },
       "id": "Q1ODI"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulpería Gándara",
+        "description": "Pulpería que tiene un fichin recreado!\nhttps://www.instagram.com/pulperiagandara",
+        "country": "Argentina",
+        "city": "Chascomus",
+        "street": "Acceso a Gándara",
+        "state": "buenos aires",
+        "locality": "Gándara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.09275,
+          -35.449662
+        ]
+      },
+      "id": "Y2MDk"
     },
     {
       "type": "Feature",

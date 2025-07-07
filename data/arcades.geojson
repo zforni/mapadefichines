@@ -4,6 +4,64 @@
     {
       "type": "Feature",
       "geometry": {
+        "coordinates": [
+          -58.454973593877554,
+          -34.611926404081636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 317725565,
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "countrycode": "AR",
+        "postcode": "C1405AQL",
+        "county": "Comuna 6",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "1903",
+        "street": "Avenida Gaona",
+        "district": "Caballito",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "description": "Zona Z - Zona de Juegos en Coto Gaona Caballito\n\nhttps://www.ze.com.ar\n\nJuegos modernos para los a los más chicos\n\nAv. Gaona 1956, C1416 Cdad. Autónoma de Buenos Aires"
+      },
+      "id": "I3MTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -71.30815911836734,
+          -41.13340792857143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 314934892,
+        "country": "Argentina",
+        "city": "San Carlos de Bariloche",
+        "countrycode": "AR",
+        "postcode": "8400",
+        "county": "Departamento Bariloche",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "176",
+        "street": "Gobernador León Quaglia",
+        "district": "Centro",
+        "osm_value": "house_number",
+        "state": "Río Negro",
+        "name": "*KPLAY*",
+        "locality": "San Carlos de Bariloche",
+        "description": "Espacio para los chicos, tiene algunos pinballs y juego más modernos"
+      },
+      "id": "UwOTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -58.417748,
@@ -93,6 +151,35 @@
         "description": "tiene varios juegos de autos muy buenos, un arcade y tipo cyber"
       },
       "id": "Y4OTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -60.702258557142855,
+          -31.634763534693878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 1159270425,
+        "country": "Argentina",
+        "city": "Santa Fe",
+        "countrycode": "AR",
+        "postcode": "S3000",
+        "county": "Departamento La Capital",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "3573",
+        "street": "25 de Mayo",
+        "district": "Mariano Comas",
+        "osm_value": "house_number",
+        "state": "Santa Fe",
+        "name": "Antro",
+        "description": "Bar de fichines clásicos y recreados, tiene pinballs también\nhttps://www.instagram.com/antro.ok"
+      },
+      "id": "E5OTU"
     },
     {
       "type": "Feature",
@@ -198,6 +285,42 @@
         "description": "Bar de juegos que tiene arcades\nhttps://www.instagram.com/basilicas_bar"
       },
       "id": "YyNTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.3912621,
+          -34.5958238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 266256046,
+        "extent": [
+          -58.3919531,
+          -34.5957961,
+          -58.389919,
+          -34.5958403
+        ],
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1060ABC",
+        "county": "Comuna 2",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "district": "Recoleta",
+        "osm_value": "secondary",
+        "name": "Bond Street - Santo Infierno",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "description": "En el local de la Bond Street Santo Infierno, hay bar con arcades\n",
+        "locality": "CABA",
+        "city": "CABA",
+        "street": "Santa Fe",
+        "housenumber": "1670"
+      },
+      "id": "E4NDA"
     },
     {
       "type": "Feature",
@@ -321,6 +444,41 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          -58.81566140500682,
+          -27.47699865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 1074795760,
+        "extent": [
+          -58.8163575,
+          -27.4764485,
+          -58.8149616,
+          -27.477655
+        ],
+        "country": "Argentina",
+        "city": "Corrientes",
+        "countrycode": "AR",
+        "postcode": "3402",
+        "locality": "Barrio Antartida Argentina",
+        "county": "Departamento Capital",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "shop",
+        "street": "Avenida Chacabuco",
+        "district": "Seccional 5ta",
+        "osm_value": "supermarket",
+        "name": "Carrefour",
+        "state": "Corrientes",
+        "description": "Carrefour Hipermercado Corrientes\n\n"
+      },
+      "id": "YwNDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           -65.20426414693878,
           -26.82881018163265
         ],
@@ -378,6 +536,69 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          -58.8064737,
+          -27.4715615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 7161278685,
+        "country": "Argentina",
+        "city": "Corrientes",
+        "countrycode": "AR",
+        "postcode": "3400",
+        "locality": "Barrio Villa Celia",
+        "county": "Departamento Capital",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "housenumber": "3525",
+        "street": "Avenida Presidente Doctor Raúl Alfonsín",
+        "district": "Seccional 5ta",
+        "osm_value": "fast_food",
+        "name": "Centenario Shopping",
+        "state": "Corrientes",
+        "description": "Centenario Shopping\n\ncentenarioshopping.com.ar\n\nJuegos modernos para los chicos"
+      },
+      "id": "MxNTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -56.8620857692146,
+          -37.11359725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 416745312,
+        "extent": [
+          -56.8622718,
+          -37.1134142,
+          -56.8618997,
+          -37.1137803
+        ],
+        "country": "Argentina",
+        "city": "Pinamar",
+        "countrycode": "AR",
+        "postcode": "7167",
+        "county": "Partido de Pinamar",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "building",
+        "street": "Simbad el Marino",
+        "osm_value": "yes",
+        "name": "CenterPlay",
+        "state": "Buenos Aires",
+        "description": "espacio con arcades clásicos, pinballs y recreativas más modernas para los más chicos\n"
+      },
+      "id": "c1MDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           -58.418432,
           -34.624415
         ],
@@ -385,7 +606,7 @@
       },
       "properties": {
         "name": "Cervecería Prancing Pony",
-        "description": "Bar tematico de Señor de los anillos tiene un fichin recreado\nwww.instagram.com/cerveceriatheprancingpony",
+        "description": "Bar tematico de Harry potter tiene un fichin recreado\nwww.instagram.com/cerveceriatheprancingpony",
         "city": "CABA",
         "country": "Argentina",
         "district": "CABA",
@@ -424,6 +645,33 @@
         "description": "Dispone de un arcade recreado (emulador)\nhttps://www.instagram.com/patagonia.lanus"
       },
       "id": "U1MzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -56.678156,
+          -36.688167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 12505716379,
+        "country": "Argentina",
+        "city": "San Bernardo del Tuyú",
+        "countrycode": "AR",
+        "postcode": "B7111CFX",
+        "county": "Partido de La Costa",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "street": "Juan de Garay",
+        "osm_value": "ice_cream",
+        "name": "Charlie - Juegos de Video",
+        "state": "Buenos Aires",
+        "description": "Arcades clásicos, pinballs y recreativas modernas"
+      },
+      "id": "g3MjU"
     },
     {
       "type": "Feature",
@@ -473,6 +721,68 @@
         "state": "Buenos Aires"
       },
       "id": "k1NTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.876480272226786,
+          -32.3693402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 834835262,
+        "extent": [
+          -58.8766039,
+          -32.3692331,
+          -58.8763561,
+          -32.3694205
+        ],
+        "country": "Argentina",
+        "city": "Basavilbaso",
+        "countrycode": "AR",
+        "postcode": "3710",
+        "county": "Distrito Genacito",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "building",
+        "street": "Avenida San Martín",
+        "osm_value": "yes",
+        "name": "Club Atlético Basavilbaso Sede Social",
+        "state": "Entre Ríos",
+        "description": "Espacio de arcades y pool\n\nBaron Hirchs, Av. San Martín y, E3170 Basavilbaso, Entre Ríos\n\nhttps://www.instagram.com/pmpoolgames/\n"
+      },
+      "id": "M0Mzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.459884959183675,
+          -34.598063857142854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 311606174,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1416DJG",
+        "locality": "La Carbonilla",
+        "county": "Distrito Audiovisual",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "2508",
+        "street": "General Manuel A. Rodríguez",
+        "district": "La Paternal",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Club Conjura",
+        "description": "Centro cultural con dos pinballs y un arcade multi recreado\nhttps://www.instagram.com/club.conjura"
+      },
+      "id": "U2NTI"
     },
     {
       "type": "Feature",
@@ -612,6 +922,35 @@
     {
       "type": "Feature",
       "geometry": {
+        "coordinates": [
+          -56.690204,
+          -36.543876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 1083825960,
+        "country": "Argentina",
+        "city": "Santa Teresita",
+        "countrycode": "AR",
+        "postcode": "7107",
+        "county": "Partido de La Costa",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "1325",
+        "street": "Calle 2",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "EL GOLPE entretenimientos",
+        "description": "Espacio con bastantes arcades clásicos y pinballs\n\nC. 2 1350, B7107",
+        "locality": "Santa Teresita"
+      },
+      "id": "cyNjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -55.893385,
@@ -638,6 +977,40 @@
         "description": "Bar con un fichin recreado para jugar"
       },
       "id": "YxNDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.49937806063988,
+          -34.62015995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 733462342,
+        "extent": [
+          -58.4996396,
+          -34.6199488,
+          -58.4991203,
+          -34.6203641
+        ],
+        "country": "Argentina",
+        "osm_key": "leisure",
+        "countrycode": "AR",
+        "district": "Monte Castro",
+        "osm_value": "park",
+        "name": "Espacio verde Monte Castro",
+        "county": "Comuna 10",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "type": "other",
+        "description": "Zona Z, Zona de Juegos de Coto\nhttps://www.ze.com.ar\n\nTiene bastantes juegos modernos pensados para los más chicos",
+        "city": "CABA",
+        "housenumber": "1701",
+        "locality": "Monte Castro"
+      },
+      "id": "YzMjM"
     },
     {
       "type": "Feature",
@@ -871,6 +1244,40 @@
     {
       "type": "Feature",
       "geometry": {
+        "coordinates": [
+          -56.68966,
+          -36.538189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 1241835921,
+        "extent": [
+          -56.6892937,
+          -36.5378721,
+          -56.6889742,
+          -36.5381799
+        ],
+        "country": "Argentina",
+        "city": "Santa Teresita",
+        "countrycode": "AR",
+        "postcode": "B7107",
+        "county": "Partido de La Costa",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "tourism",
+        "housenumber": "747",
+        "street": "Avenida Costanera",
+        "osm_value": "hotel",
+        "name": "Hosteria Santa Teresita",
+        "state": "Buenos Aires",
+        "description": "Espacio con bastantes arcades clásicos, pinballs y pool\n\nC. 2 n° 777, B7107 Santa Teresita, Provincia de Buenos Aires"
+      },
+      "id": "MyNzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -58.444283,
@@ -1080,7 +1487,7 @@
         "street": "AV. PRESIDENTE PERÓN",
         "state": "buenos aires",
         "locality": "Muñiz",
-        "description": "juegos físicos, orientado a chicos, algunos juegos de carreras \nhttps://www.instagram.com/much_play/"
+        "description": "juegos físicos, orientado a chicos, algunos juegos de carreras \nhttps://www.instagram.com/muchplay.sanmiguel"
       },
       "id": "AwOTQ"
     },
@@ -1517,6 +1924,61 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          -58.9627165,
+          -27.4309441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 10712435708,
+        "country": "Argentina",
+        "city": "Resistencia",
+        "countrycode": "AR",
+        "postcode": "H3500ALD",
+        "county": "Departamento San Fernando",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "shop",
+        "street": "Avenida Sarmiento",
+        "osm_value": "perfumery",
+        "name": "Shopping Sarmiento",
+        "state": "Chaco",
+        "description": "Shopping con área de juegos recreativos para los chicos"
+      },
+      "id": "MxMjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -60.0762380875,
+          -38.8579007875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 979719208,
+        "country": "Argentina",
+        "city": "Claromecó",
+        "countrycode": "AR",
+        "postcode": "7505",
+        "county": "Partido de Tres Arroyos",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "262",
+        "street": "Avenida 26",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Summer Game",
+        "description": "Espacio con arcades clásicos, recreativas modernas, pools, etc"
+      },
+      "id": "Q2OTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           -58.54215815833333,
           -34.59701624583333
         ],
@@ -1569,6 +2031,35 @@
         "description": "Bar gamer. Comida, bebida, arcades recreados, consolas y demases\nhttps://www.instagram.com/terragame_s"
       },
       "id": "c5MjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -57.5441063,
+          -38.0032138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 3447171405,
+        "country": "Argentina",
+        "city": "Mar del Plata",
+        "countrycode": "AR",
+        "postcode": "B7600JUW",
+        "county": "Partido de General Pueyrredón",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "2200",
+        "street": "Belgrano",
+        "district": "Centro",
+        "osm_value": "house",
+        "state": "Buenos Aires",
+        "name": "The King Video Juegos",
+        "description": "The King Video Juegos es un espacio con arcades clásicos y fichines"
+      },
+      "id": "MxNTU"
     },
     {
       "type": "Feature",
@@ -1626,6 +2117,34 @@
         "description": "Bar con algunos arcades clásicos\nhttps://www.instagram.com/tom.cerveceria"
       },
       "id": "Y5MTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.497520032653064,
+          -34.59653890204082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 174174310,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1419HTH",
+        "county": "Comuna 11",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "5737",
+        "street": "Avenida San Martín",
+        "district": "Villa Devoto",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Trapa Bar",
+        "description": "bar de videojuegos, clásicos, modernos, pinballs\nhttps://www.instagram.com/trapabar/"
+      },
+      "id": "U0OTM"
     },
     {
       "type": "Feature",
@@ -1694,6 +2213,29 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          -56.689947,
+          -36.53537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "VR juegos",
+        "description": "Espacio con bastantes arcades clásicos y pinballs\n\nAv. 32 240, B7107 Santa Teresita, Provincia de Buenos Aires",
+        "city": "Santa Teresita",
+        "country": "Argentina",
+        "county": "Argentina",
+        "district": "Santa Teresita",
+        "housenumber": "240",
+        "locality": "Santa Teresita",
+        "state": "Buenos Aires",
+        "street": "Av. 32"
+      },
+      "id": "Q2NDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           -62.261864571428575,
           -38.71813057755102
         ],
@@ -1751,206 +2293,71 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -56.8620857692146,
-          -37.11359725
-        ],
-        "type": "Point"
+          -60.1575914375,
+          -32.620063574999996
+        ]
       },
       "properties": {
-        "osm_id": 416745312,
+        "osm_type": "W",
+        "osm_id": 901263691,
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "E3153ZAA",
+        "housenumber": "82",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "city": "Victoria",
+        "street": "Alem",
+        "state": "Entre Ríos",
+        "county": "Distrito Laguna del Pescado",
         "extent": [
-          -56.8622718,
-          -37.1134142,
-          -56.8618997,
-          -37.1137803
+          -60.157760737500006,
+          -32.619894175,
+          -60.1572951625,
+          -32.620360025
         ],
-        "country": "Argentina",
-        "city": "Pinamar",
-        "countrycode": "AR",
-        "postcode": "7167",
-        "county": "Partido de Pinamar",
-        "type": "house",
-        "osm_type": "W",
-        "osm_key": "building",
-        "street": "Simbad el Marino",
-        "osm_value": "yes",
-        "name": "CenterPlay",
-        "state": "Buenos Aires",
-        "description": "espacio con arcades clásicos, pinballs y recreativas más modernas para los más chicos\n"
+        "name": "Cyber Alem",
+        "description": "Maquinas recreativas multi juegos y diversas para los chicos\nhttps://www.facebook.com/cyberalemvictoria"
       },
-      "id": "c1MDg"
+      "id": "M4OTk"
     },
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -60.0762380875,
-          -38.8579007875
-        ],
-        "type": "Point"
+          -58.37298506326531,
+          -34.61985992653061
+        ]
       },
       "properties": {
-        "osm_id": 979719208,
-        "country": "Argentina",
-        "city": "Claromecó",
-        "countrycode": "AR",
-        "postcode": "7505",
-        "county": "Partido de Tres Arroyos",
-        "type": "house",
         "osm_type": "W",
+        "osm_id": 400038710,
         "osm_key": "place",
-        "housenumber": "262",
-        "street": "Avenida 26",
         "osm_value": "house_number",
-        "state": "Buenos Aires",
-        "name": "Summer Game",
-        "description": "Espacio con arcades clásicos, recreativas modernas, pools, etc"
-      },
-      "id": "Q2OTg"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -56.678156,
-          -36.688167
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "osm_id": 12505716379,
-        "country": "Argentina",
-        "city": "San Bernardo del Tuyú",
-        "countrycode": "AR",
-        "postcode": "B7111CFX",
-        "county": "Partido de La Costa",
         "type": "house",
-        "osm_type": "N",
-        "osm_key": "amenity",
-        "street": "Juan de Garay",
-        "osm_value": "ice_cream",
-        "name": "Charlie - Juegos de Video",
-        "state": "Buenos Aires",
-        "description": "Arcades clásicos, pinballs y recreativas modernas"
-      },
-      "id": "g3MjU"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -71.30815911836734,
-          -41.13340792857143
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "osm_id": 314934892,
-        "country": "Argentina",
-        "city": "San Carlos de Bariloche",
+        "postcode": "C1078",
+        "housenumber": "1019",
         "countrycode": "AR",
-        "postcode": "8400",
-        "county": "Departamento Bariloche",
-        "type": "house",
-        "osm_type": "W",
-        "osm_key": "place",
-        "housenumber": "176",
-        "street": "Gobernador León Quaglia",
-        "district": "Centro",
-        "osm_value": "house_number",
-        "state": "Río Negro",
-        "name": "*KPLAY*",
-        "locality": "San Carlos de Bariloche",
-        "description": "Espacio para los chicos, tiene algunos pinballs y juego más modernos"
-      },
-      "id": "UwOTQ"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -56.690204,
-          -36.543876
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "osm_id": 1083825960,
         "country": "Argentina",
-        "city": "Santa Teresita",
-        "countrycode": "AR",
-        "postcode": "7107",
-        "county": "Partido de La Costa",
-        "type": "house",
-        "osm_type": "W",
-        "osm_key": "place",
-        "housenumber": "1325",
-        "street": "Calle 2",
-        "osm_value": "house_number",
-        "state": "Buenos Aires",
-        "name": "EL GOLPE entretenimientos",
-        "description": "Espacio con bastantes arcades clásicos y pinballs\n\nC. 2 1350, B7107",
-        "locality": "Santa Teresita"
-      },
-      "id": "cyNjY"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -56.68966,
-          -36.538189
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "osm_id": 1241835921,
+        "city": "Buenos Aires",
+        "district": "San Telmo",
+        "street": "Bolívar",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "county": "Comuna 1",
         "extent": [
-          -56.6892937,
-          -36.5378721,
-          -56.6889742,
-          -36.5381799
+          -58.37299709591837,
+          -34.61970399183673,
+          -58.37292640408163,
+          -34.620620108163266
         ],
-        "country": "Argentina",
-        "city": "Santa Teresita",
-        "countrycode": "AR",
-        "postcode": "B7107",
-        "county": "Partido de La Costa",
-        "type": "house",
-        "osm_type": "W",
-        "osm_key": "tourism",
-        "housenumber": "747",
-        "street": "Avenida Costanera",
-        "osm_value": "hotel",
-        "name": "Hosteria Santa Teresita",
-        "state": "Buenos Aires",
-        "description": "Espacio con bastantes arcades clásicos, pinballs y pool\n\nC. 2 n° 777, B7107 Santa Teresita, Provincia de Buenos Aires"
+        "name": "Cristobal Games",
+        "description": "Espacio de arcades clásicos, música, barra, feria\nhttps://www.instagram.com/cristobalgames.bsas"
       },
-      "id": "MyNzY"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -56.689947,
-          -36.53537
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "VR juegos",
-        "description": "Espacio con bastantes arcades clásicos y pinballs\n\nAv. 32 240, B7107 Santa Teresita, Provincia de Buenos Aires",
-        "city": "Santa Teresita",
-        "country": "Argentina",
-        "county": "Argentina",
-        "district": "Santa Teresita",
-        "housenumber": "240",
-        "locality": "Santa Teresita",
-        "state": "Buenos Aires",
-        "street": "Av. 32"
-      },
-      "id": "Q2NDA"
+      "id": "gzMzI"
     }
   ]
 }
